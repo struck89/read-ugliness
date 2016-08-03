@@ -1,0 +1,367 @@
+Tire Dataset Created for:;;;ISO Metric;;
+Hoosier FSAE 20.0x7.5-13 43161 @ 12 psi, 7 inch rim;;;G. Gott;Date:;
+;;;1996 Pacejka Formulation (Reference 2);;
+Physical Characteristics;;Lateral Force--Pure Side Slip;;Aligning Torque;
+Fz0;659.44044;pCy1;1.580564;qBz1;6.999966
+R0;0.254;pDy1;2.556991;qBz2;-0.000034
+Longitudinal Force--Pure Longitudinal Slip;;pDy2;-0.123859;qBz3;0.000042
+pCx1;1.35;pDy3;9.298352;qBz4;5.428167
+pDx1;2.3737;pEy1;-0.029424;qBz5;-5.42803
+pDx2;-0.15401;pEy2;-0.1594;qBz9;0
+pEx1;0.76557;pEy3;-0.727115;qBz10;0
+pEx2;-0.23701;pEy4;8.236164;qCz1;1.614833
+pEx3;-0.51085;pKy1;-134.06153;qDz1;0.052077
+pEx4;0.37522;pKy2;-3.703944;qDz2;-0.0063
+pKx1;71.9367;pKy3;2.2346;qDz3;6.195502
+pKx2;-30.2111;pHy1;0.004461;qDz4;-2.042448
+pKx3;-0.40362;pHy2;-0.002773;qDz6;-0.016945
+pHx1;0.005126;pHy3;-0.127228;qDz7;0.00803
+pHx2;-0.00451;pVy1;0.026301;qDz8;-1.578072
+pVx1;-0.12227;pVy2;-0.000103;qDz9;-0.600976
+pVx2;0.089109;pVy3;0.253528;qEz1;-4.178997
+Longitudinal Force--Combined Slip;;pVy4;-0.072899;qEz2;-0.426508
+rBx1;18.96807;Lateral Force--Combined Slip;;qEz3;-0.002262
+rBx2;23.468799;rBy1;590.75156;qEz4;0.382392
+rCx1;1.149804;rBy2;475.82154;qEz5;3.49772
+rHx1;0;rBy3;-0.025786;qHz1;0.009371
+;;rCy1;0.997799;qHz2;-0.003621
+;;rHy1;-0.001245;qHz3;0.431336
+;;rVy1;0.079205;qHz4;0.007574
+;;rVy2;-0.045271;;
+;;rVy3;-0.596856;;
+;;rVy4;2;;
+;;rVy5;6;;
+;;rVy6;2;;
+2007 Stackpole Engineering Services Inc. Tire Data Fitting Program;;;;;
+*** Pacejka Coefficients Summary File ***;;;;;
+Pure Slip Condition;;;;;
+Tire Dataset Created for:;;;ISO Metric;;
+Hoosier FSAE 20.0x7.5-13 43161 @ 12 psi, 8 inch rim;;;G. Gott;Date:;
+;;;1996 Pacejka Formulation (Reference 2);;
+Physical Characteristics;;Lateral Force;;Aligning Torque;
+Fz0;657.33511;pCy1;1.568288;qBz1;7.000003
+R0;0.254;pDy1;2.489121;qBz2;0.000003
+Longitudinal Force;;pDy2;-0.120498;qBz3;-0.000009
+pCx1;1.7;pDy3;3.157497;qBz4;-7.593104
+pDx1;2.4149;pEy1;-0.01619;qBz5;7.59311
+pDx2;-0.15154;pEy2;-0.057131;qBz9;0
+pEx1;0;pEy3;-1.75437;qBz10;0
+pEx2;0;pEy4;-2.813527;qCz1;1.645935
+pEx3;0;pKy1;-209.32818;qDz1;0.058834
+pEx4;0;pKy2;-6.138896;qDz2;-0.010225
+pKx1;52.8311;pKy3;2.699553;qDz3;0.002678
+pKx2;0.000012;pHy1;0.00335;qDz4;-0.037666
+pKx3;-0.009406;pHy2;-0.002888;qDz6;-0.017523
+pHx1;0.005091;pHy3;-0.131418;qDz7;0.000045
+pHx2;-0.004532;pVy1;0.033371;qDz8;-1.65306
+pVx1;-0.036187;pVy2;-0.004097;qDz9;-0.521505
+pVx2;0.031334;pVy3;0.277788;qEz1;-3.931191
+Longitudinal Force--Combined Slip;;pVy4;-0.025914;qEz2;-0.264403
+rBx1;16.152547;Lateral Force--Combined Slip;;qEz3;-0.072705
+rBx2;21.485043;rBy1;664.41249;qEz4;0.450901
+rCx1;1.225877;rBy2;530.97956;qEz5;3.113092
+rHx1;0;rBy3;-0.025817;qHz1;0.008905
+;;rCy1;0.99539;qHz2;0.000387
+;;rHy1;-0.002522;qHz3;0.424319
+;;rVy1;-0.075138;qHz4;0.022102
+;;rVy2;0.044475;;
+;;rVy3;0.82619;;
+;;rVy4;2;;
+;;rVy5;6;;
+;;rVy6;-2;;
+2007 Stackpole Engineering Services Inc. Tire Data Fitting Program;;;;;
+*** Pacejka Coefficients Summary File ***;;;;;
+Pure Slip Condition;;;;;
+Tire Dataset Created for:;;;ISO Metric;;
+Hoosier FSAE 20.5x7.0-13 43129 @ 12 psi, 6 inch rim;;;G. Gott;Date:;
+;;;1996 Pacejka Formulation (Reference 2);;
+Physical Characteristics;;Lateral Force;;Aligning Torque;
+Fz0;656.9462;pCy1;1.440341;qBz1;6.999988
+R0;0.26;pDy1;2.48646;qBz2;0.000002
+Longitudinal Force;;pDy2;-0.172619;qBz3;0.000003
+pCx1;1.35;pDy3;-3.891723;qBz4;-2.568171
+pDx1;2.5619;pEy1;-0.000032;qBz5;2.568191
+pDx2;-0.22695;pEy2;0.000008;qBz9;0
+pEx1;0.34281;pEy3;-4280.7773;qBz10;0
+pEx2;1.4473;pEy4;-25532.491;qCz1;1.33319
+pEx3;-1.3222;pKy1;-88.259307;qDz1;0.067563
+pEx4;0;pKy2;-2.615363;qDz2;-0.001717
+pKx1;70.1821;pKy3;2.535419;qDz3;-0.123071
+pKx2;-0.000002;pHy1;0.001811;qDz4;0.051728
+pKx3;0.1466;pHy2;-0.000927;qDz6;-0.016474
+pHx1;0.005109;pHy3;-0.118919;qDz7;0.008948
+pHx2;-0.003988;pVy1;0.049077;qDz8;-0.86441
+pVx1;-0.10316;pVy2;-0.040834;qDz9;-0.394913
+pVx2;0.038232;pVy3;-0.158015;qEz1;-4.931575
+Longitudinal Force--Combined Slip;;pVy4;0.38738;qEz2;0.10806
+rBx1;5.243726;Lateral Force--Combined Slip;;qEz3;-0.073829
+rBx2;-12.335713;rBy1;622772.88;qEz4;0.295153
+rCx1;1.401406;rBy2;-505190.82;qEz5;3.171317
+rHx1;0.215197;rBy3;-0.024924;qHz1;0.001715
+;;rCy1;0.990594;qHz2;0.000023
+;;rHy1;0.002519;qHz3;0.269553
+;;rVy1;-0.0653;qHz4;0.131421
+;;rVy2;0.044453;;
+;;rVy3;0.504852;;
+;;rVy4;8.48365;;
+;;rVy5;6;;
+;;rVy6;-2;;
+2007 Stackpole Engineering Services Inc. Tire Data Fitting Program;;;;;
+*** Pacejka Coefficients Summary File ***;;;;;
+Pure Slip Condition;;;;;
+Tire Dataset Created for:;;;ISO Metric;;
+Hoosier FSAE 20.5x7.0-13 43129 @ 12 psi, 7 inch rim;;;G. Gott;Date:;
+;;;1996 Pacejka Formulation (Reference 2);;
+Physical Characteristics;;Lateral Force;;Aligning Torque;
+Fz0;663.94728;pCy1;1.377528;qBz1;6.999989
+R0;0.26;pDy1;2.486064;qBz2;0.000006
+Longitudinal Force;;pDy2;-0.150167;qBz3;-0.000006
+pCx1;1.35;pDy3;-1.88895;qBz4;1.953678
+pDx1;2.5507;pEy1;-0.000043;qBz5;-1.953612
+pDx2;-0.23408;pEy2;0.000007;qBz9;0
+pEx1;0.40327;pEy3;-3683.9043;qBz10;0
+pEx2;1.1649;pEy4;-15729.78;qCz1;1.336858
+pEx3;-1.0858;pKy1;-114.08707;qDz1;0.069955
+pEx4;0.85363;pKy2;-3.621914;qDz2;-0.008551
+pKx1;64.3473;pKy3;2.51886;qDz3;-0.081052
+pKx2;0.000013;pHy1;0.002182;qDz4;-0.008025
+pKx3;0.04864;pHy2;-0.001398;qDz6;-0.017415
+pHx1;0.005465;pHy3;-0.119546;qDz7;0.01049
+pHx2;-0.003318;pVy1;0.026184;qDz8;-0.884572
+pVx1;-0.15012;pVy2;-0.029205;qDz9;-0.486215
+pVx2;0.0905;pVy3;0.034106;qEz1;-4.918159
+Longitudinal Force--Combined Slip;;pVy4;0.424675;qEz2;0.05119
+rBx1;23.88078;Lateral Force--Combined Slip;;qEz3;0.044727
+rBx2;-24.289412;rBy1;16.610029;qEz4;0.300067
+rCx1;1.118541;rBy2;25.105729;qEz5;3.296241
+rHx1;0;rBy3;0.044141;qHz1;0.003864
+;;rCy1;0.992126;qHz2;0.00041
+;;rHy1;-0.002106;qHz3;0.268876
+;;rVy1;-0.053669;qHz4;0.130015
+;;rVy2;0.037279;;
+;;rVy3;0.511559;;
+;;rVy4;2;;
+;;rVy5;6;;
+;;rVy6;-2;;
+2007 Stackpole Engineering Services Inc. Tire Data Fitting Program;;;;;
+*** Pacejka Coefficients Summary File ***;;;;;
+Pure Slip Condition;;;;;
+Tire Dataset Created for:;;;ISO Metric;;
+Hoosier FSAE 20.5x7.0-13 43129 @ 12 psi, 8 inch rim;;;G. Gott;Date:;
+;;;1996 Pacejka Formulation (Reference 2);;
+Physical Characteristics;;Lateral Force;;Aligning Torque;
+Fz0;661.15304;pCy1;1.466801;qBz1;6.999998
+R0;0.26;pDy1;2.507853;qBz2;0.000033
+Longitudinal Force;;pDy2;-0.154951;qBz3;0.000013
+pCx1;1.338;pDy3;3.992121;qBz4;-8.83415
+pDx1;2.5722;pEy1;-0.000022;qBz5;8.83405
+pDx2;-0.21555;pEy2;0.000004;qBz9;0
+pEx1;0.64992;pEy3;-2425.236;qBz10;0
+pEx2;0.40397;pEy4;-213235.67;qCz1;1.370612
+pEx3;-0.36698;pKy1;-144.83247;qDz1;0.067038
+pEx4;0.27059;pKy2;-4.816265;qDz2;-0.012659
+pKx1;68.6146;pKy3;2.130554;qDz3;-0.085208
+pKx2;0.000005;pHy1;0.002194;qDz4;-0.015846
+pKx3;0.064062;pHy2;-0.001042;qDz6;-0.016157
+pHx1;0.003401;pHy3;-0.128622;qDz7;0.006716
+pHx2;-0.00174;pVy1;0.039215;qDz8;-1.010348
+pVx1;-0.078166;pVy2;-0.023809;qDz9;-0.37162
+pVx2;0.025193;pVy3;0.570218;qEz1;-4.969908
+Longitudinal Force--Combined Slip;;pVy4;-0.051378;qEz2;-0.618956
+rBx1;7.71009;Lateral Force--Combined Slip;;qEz3;0.578265
+rBx2;-14.174633;rBy1;34.654119;qEz4;0.315521
+rCx1;1.219055;rBy2;98.865284;qEz5;3.276633
+rHx1;0.291459;rBy3;0.069359;qHz1;0.007175
+;;rCy1;0.989399;qHz2;-0.000743
+;;rHy1;-0.002848;qHz3;0.327947
+;;rVy1;0.072409;qHz4;0.040868
+;;rVy2;-0.049942;;
+;;rVy3;-0.697441;;
+;;rVy4;2;;
+;;rVy5;6;;
+;;rVy6;2;;
+2007 Stackpole Engineering Services Inc. Tire Data Fitting Program;;;;;
+*** Pacejka Coefficients Summary File ***;;;;;
+Pure Slip Condition;;;;;
+Tire Dataset Created for:;;;ISO Metric;;
+Goodyear FSAE 20.0x7.0-13 D2692 @ 12 psi, 6 inch rim;;;G. Gott;Date:;
+;;;1996 Pacejka Formulation (Reference 2);;
+Physical Characteristics;;Lateral Force;;Aligning Torque;
+Fz0;658.91217;pCy1;1.273936;qBz1;6.865371
+R0;0.254;pDy1;2.423657;qBz2;-0.779941
+Longitudinal Force;;pDy2;-0.121414;qBz3;0.142323
+pCx1;1.35;pDy3;-15.565281;qBz4;-0.907809
+pDx1;2.5309;pEy1;-0.067827;qBz5;-0.759031
+pDx2;-0.17307;pEy2;-0.186768;qBz9;0
+pEx1;0.48182;pEy3;1.0093;qBz10;0
+pEx2;-0.49328;pEy4;-47.88;qCz1;1.419188
+pEx3;0.15334;pKy1;-55.705224;qDz1;0.073563
+pEx4;0.37884;pKy2;-2.257242;qDz2;-0.005914
+pKx1;38.3861;pKy3;2.359584;qDz3;-0.092061
+pKx2;0.000018;pHy1;0.006011;qDz4;0.009835
+pKx3;-0.078153;pHy2;-0.000282;qDz6;-0.002737
+pHx1;0.005826;pHy3;-0.084762;qDz7;0.00462
+pHx2;-0.005558;pVy1;0.027397;qDz8;-1.005247
+pVx1;-0.11661;pVy2;0.010503;qDz9;-0.274537
+pVx2;0.092574;pVy3;0.154489;qEz1;-3.776262
+Longitudinal Force--Combined Slip;;pVy4;-1.311038;qEz2;-0.025177
+rBx1;44.720946;Lateral Force--Combined Slip;;qEz3;-0.188059
+rBx2;-45.577146;rBy1;-285.36543;qEz4;0.434379
+rCx1;1.035163;rBy2;-1155.6869;qEz5;1.283381
+rHx1;0.119074;rBy3;0.072969;qHz1;0.00842
+;;rCy1;0.979198;qHz2;0.00421
+;;rHy1;0.004534;qHz3;0.46793
+;;rVy1;0.040205;qHz4;0.081089
+;;rVy2;-0.014764;;
+;;rVy3;-0.317386;;
+;;rVy4;12;;
+;;rVy5;6;;
+;;rVy6;2;;
+2007 Stackpole Engineering Services Inc. Tire Data Fitting Program;;;;;
+*** Pacejka Coefficients Summary File ***;;;;;
+Pure Slip Condition;;;;;
+Tire Dataset Created for:;;;ISO Metric;;
+Goodyear FSAE 20.0x7.0-13 D2692 @ 12 psi, 7 inch rim;;;G. Gott;Date:;
+;;;1996 Pacejka Formulation (Reference 2);;
+Physical Characteristics;;Lateral Force;;Aligning Torque;
+Fz0;655.99471;pCy1;1.384913;qBz1;7.125406
+R0;0.254;pDy1;2.365176;qBz2;-0.454625
+Longitudinal Force;;pDy2;-0.112845;qBz3;-0.296488
+pCx1;1.7;pDy3;-6.564751;qBz4;-3.441441
+pDx1;2.4507;pEy1;-0.020286;qBz5;2.265416
+pDx2;-0.12864;pEy2;0.00247;qBz9;0
+pEx1;0;pEy3;-1.6276;qBz10;0
+pEx2;0;pEy4;-555.567;qCz1;1.474792
+pEx3;0;pKy1;-71.225854;qDz1;0.06362
+pEx4;0;pKy2;-3.055556;qDz2;-0.006974
+pKx1;34.5392;pKy3;2.627011;qDz3;-0.061733
+pKx2;-0.000017;pHy1;0.005563;qDz4;-0.001134
+pKx3;-0.1447;pHy2;0.000239;qDz6;-0.004597
+pHx1;0.006387;pHy3;-0.099175;qDz7;0.00733
+pHx2;-0.005954;pVy1;0.047684;qDz8;-0.989497
+pVx1;-0.081833;pVy2;-0.01747;qDz9;-0.371549
+pVx2;0.063146;pVy3;-0.018378;qEz1;-3.701592
+Longitudinal Force--Combined Slip;;pVy4;-0.69146;qEz2;0.262618
+rBx1;47.893387;Lateral Force--Combined Slip;;qEz3;-0.195784
+rBx2;-5.372597;rBy1;-14.48225;qEz4;0.461707
+rCx1;1.011488;rBy2;-39.1854;qEz5;2.692702
+rHx1;1;rBy3;0.067346;qHz1;0.007845
+;;rCy1;0.967468;qHz2;0.00548
+;;rHy1;0.001961;qHz3;0.436525
+;;rVy1;-0.058042;qHz4;0.108059
+;;rVy2;0.028638;;
+;;rVy3;0.408059;;
+;;rVy4;12;;
+;;rVy5;6;;
+;;rVy6;-2;;
+2007 Stackpole Engineering Services Inc. Tire Data Fitting Program;;;;;
+*** Pacejka Coefficients Summary File ***;;;;;
+Pure Slip Condition;;;;;
+Tire Dataset Created for:;;;ISO Metric;;
+Goodyear FSAE 20.0x7.0-13 D2692 @ 12 psi, 8 inch rim;;;G. Gott;Date:;
+;;;1996 Pacejka Formulation (Reference 2);;
+Physical Characteristics;;Lateral Force;;Aligning Torque;
+Fz0;656.17923;pCy1;1.369556;qBz1;7.114457
+R0;0.254;pDy1;2.34421;qBz2;-0.427725
+Longitudinal Force;;pDy2;-0.137015;qBz3;-0.397918
+pCx1;1.35;pDy3;-4.762399;qBz4;-4.612984
+pDx1;2.6173;pEy1;-0.000018;qBz5;3.66957
+pDx2;-0.26131;pEy2;0.000004;qBz9;0
+pEx1;0.48981;pEy3;203.8931;qBz10;0
+pEx2;-0.52733;pEy4;-612166.71;qCz1;1.529893
+pEx3;0.23682;pKy1;-89.235959;qDz1;0.059163
+pEx4;0.32557;pKy2;-3.861403;qDz2;-0.009119
+pKx1;41.7394;pKy3;2.709483;qDz3;-0.089719
+pKx2;-0.000018;pHy1;0.007083;qDz4;0.037811
+pKx3;-0.067346;pHy2;-0.001544;qDz6;-0.005066
+pHx1;0.006499;pHy3;-0.139544;qDz7;0.00583
+pHx2;-0.00511;pVy1;0.032086;qDz8;-0.973814
+pVx1;-0.15695;pVy2;-0.000163;qDz9;-0.402587
+pVx2;0.095746;pVy3;0.291355;qEz1;-3.732297
+Longitudinal Force--Combined Slip;;pVy4;-0.032688;qEz2;-0.12452
+rBx1;49.160811;Lateral Force--Combined Slip;;qEz3;-0.080793
+rBx2;-52.866419;rBy1;953210.88;qEz4;0.473554
+rCx1;1.034488;rBy2;-860418.45;qEz5;1.999961
+rHx1;0.095843;rBy3;-0.040937;qHz1;0.01094
+;;rCy1;0.992965;qHz2;0.003828
+;;rHy1;-0.004705;qHz3;0.38947
+;;rVy1;-0.342155;qHz4;0.129787
+;;rVy2;0.307986;;
+;;rVy3;2.469623;;
+;;rVy4;2;;
+;;rVy5;4.790187;;
+;;rVy6;-0.119338;;
+2007 Stackpole Engineering Services Inc. Tire Data Fitting Program;;;;;
+*** Pacejka Coefficients Summary File ***;;;;;
+Pure Slip Condition;;;;;
+Tire Dataset Created for:;;;ISO Metric;;
+Michelin FSAE 16/53-13 F146045B @ 12 psi, 7 inch rim;;;G. Gott;Date:;
+;;;1996 Pacejka Formulation (Reference 2);;
+Physical Characteristics;;Lateral Force;;Aligning Torque;
+Fz0;656.57027;pCy1;1.509604;qBz1;4.174484
+R0;0.265;pDy1;1.876518;qBz2;-1.430106
+Longitudinal Force;;pDy2;-0.24805;qBz3;0.424671
+pCx1;1.3083;pDy3;-6.767871;qBz4;-16.183048
+pDx1;2.1822;pEy1;-0.526287;qBz5;19.931381
+pDx2;0.004067;pEy2;-0.402128;qBz9;0
+pEx1;-2;pEy3;-0.4416;qBz10;0
+pEx2;0;pEy4;4.784;qCz1;3.801654
+pEx3;0;pKy1;-84.641227;qDz1;0.035077
+pEx4;-0.10201;pKy2;-2.699554;qDz2;0.008618
+pKx1;63.1727;pKy3;0.690943;qDz3;-0.030228
+pKx2;-0.000022;pHy1;-0.001544;qDz4;-0.002358
+pKx3;-0.089962;pHy2;-0.00197;qDz6;-0.006005
+pHx1;0.006061;pHy3;-0.002207;qDz7;0.009681
+pHx2;-0.005651;pVy1;0.0261;qDz8;-0.929554
+pVx1;-0.092625;pVy2;-0.015369;qDz9;-0.256858
+pVx2;0.12187;pVy3;-2.78468;qEz1;-3.117798
+Longitudinal Force--Combined Slip;;pVy4;-0.726964;qEz2;0.356801
+rBx1;11.496936;Lateral Force--Combined Slip;;qEz3;-0.19995
+rBx2;25.995858;rBy1;15.819246;qEz4;0.485058
+rCx1;1.392322;rBy2;26.156138;qEz5;0.833302
+rHx1;0.000634;rBy3;0.054329;qHz1;-0.007665
+;;rCy1;0.993565;qHz2;-0.017806
+;;rHy1;0.004943;qHz3;0.16229
+;;rVy1;-0.058289;qHz4;0.207
+;;rVy2;0.037715;;
+;;rVy3;0.040851;;
+;;rVy4;12;;
+;;rVy5;6;;
+;;rVy6;-2;;
+2007 Stackpole Engineering Services Inc. Tire Data Fitting Program;;;;;
+*** Pacejka Coefficients Summary File ***;;;;;
+Pure Slip Condition;;;;;
+Tire Dataset Created for:;;;ISO Metric;;
+Michelin FSAE 16/53-13 F146045B @ 12 psi, 8 inch rim;;;G. Gott;Date:;
+;;;1996 Pacejka Formulation (Reference 2);;
+Physical Characteristics;;Lateral Force;;Aligning Torque;
+Fz0;659.48656;pCy1;1.530743;qBz1;3.931683
+R0;0.265;pDy1;1.940413;qBz2;-1.340921
+Longitudinal Force;;pDy2;-0.229624;qBz3;0.589025
+pCx1;1.3;pDy3;-7.396114;qBz4;-12.452595
+pDx1;2.4602;pEy1;-0.561259;qBz5;16.647072
+pDx2;-0.24975;pEy2;-0.175137;qBz9;0
+pEx1;-2;pEy3;-0.2298;qBz10;0
+pEx2;0;pEy4;8.142;qCz1;3.76791
+pEx3;0;pKy1;-98.389735;qDz1;0.035065
+pEx4;-0.125;pKy2;-3.126415;qDz2;0.006438
+pKx1;67.8218;pKy3;0.875638;qDz3;-0.033175
+pKx2;-0.000018;pHy1;-0.001112;qDz4;-0.002324
+pKx3;-0.18303;pHy2;-0.001773;qDz6;-0.005938
+pHx1;0.005884;pHy3;0.001753;qDz7;0.009806
+pHx2;-0.00589;pVy1;0.033049;qDz8;-0.998106
+pVx1;0.006316;pVy2;-0.023433;qDz9;-0.279806
+pVx2;0.004255;pVy3;-3.156051;qEz1;-3.133602
+Longitudinal Force--Combined Slip;;pVy4;-0.429782;qEz2;1.186927
+rBx1;21.327967;Lateral Force--Combined Slip;;qEz3;-0.853972
+rBx2;44.856841;rBy1;-41.271183;qEz4;0.418626
+rCx1;1.130438;rBy2;35.365852;qEz5;0.728623
+rHx1;0.03008;rBy3;-0.022751;qHz1;-0.011622
+;;rCy1;1.001999;qHz2;-0.015197
+;;rHy1;0.005493;qHz3;0.245954
+;;rVy1;-0.050991;qHz4;0.129083
+;;rVy2;0.034623;;
+;;rVy3;0.049121;;
+;;rVy4;12;;
+;;rVy5;6;;
+;;rVy6;-2;;
